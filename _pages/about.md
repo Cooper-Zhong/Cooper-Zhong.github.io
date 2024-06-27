@@ -17,8 +17,8 @@ profile:
 # <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 I am Zhiyuan Zhong, a final year undergraduate majoring in Computer Science at [SUSTech](https://www.sustech.edu.cn/en/). I am also doing research in [Software Quality Lab](https://sqlab-sustech.github.io/), supervised by Prof. [Yepang Liu](https://cse.sustech.edu.cn/faculty/~liuyp/).
