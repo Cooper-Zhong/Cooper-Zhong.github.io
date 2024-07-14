@@ -6,7 +6,7 @@ subtitle: Southern University of Science and Technology (SUSTech), shenzhen, Chi
 
 profile:
   align: right
-  image: portrait.jpg
+  image: portrait_crop.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -17,7 +17,7 @@ profile:
 # <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
@@ -25,7 +25,7 @@ I am Zhiyuan Zhong, a final year undergraduate majoring in Computer Science at [
 
 <!-- name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-My current research is on Software Engineering. I am exploring library fuzzing technique assisted with Large Language Models to discover potential bugs. I am also very interested in research fields inlcuding Natural Language Processing, trustworthiness & safety of Large Language Models.
+My current research is on Software Engineering, specifically LLM4SE. I am exploring the application of Large Language Models in discovering potential bugs within libraries. I am also very interested in research fields inlcuding Natural Language Processing, trustworthiness & safety of Large Language Models.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
